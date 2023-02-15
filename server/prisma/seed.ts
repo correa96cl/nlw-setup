@@ -15,6 +15,7 @@ async function run() {
   await prisma.habit.deleteMany()
   await prisma.day.deleteMany()
 
+  
   /**
    * Create habits
    */
