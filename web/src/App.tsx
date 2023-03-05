@@ -1,5 +1,6 @@
 import './styles/global.css'
 import './App.css'
+import './lib/dayjs';
 import { HabitDay } from './components/HabitDay'
 
 import logoImage from './assets/logo.svg'
