@@ -114,41 +114,60 @@ This is an example of how to list things you need to use the software and how to
 
 ```
 
-### Installation
+### Installation Backend Project
 
 1. Clone the repo
    ```sh
-        git clone https://github.com/correa96cl/academia-node-js.git
+        git clone https://github.com/correa96cl/nlw-setup.git
    ```
 2. Install all the libraries
 ```sh
    npm install
 ``` 
-3. Install Types of Express
+3. Execute App
 ```sh
-    npm i --save-dev @types/express
+    npm run dev
 ```
-4. Install TS-NODE-DEV
-```sh
-    npm i ts-node-dev -D
-```
-5. Install esLint (Optional)
+
+### Setup Web Project
+
+1. Clone the repo
+   ```sh
+        git clone https://github.com/correa96cl/nlw-setup.git
+   ```
+2. Install the libraries
   ```sh
-  npm i eslint -D
+  npm i
   ```
-6. Initialize the esLint (Optional)
+3. Execute App
   ```sh
-  npx  esLint --init
-  ```
-7. Install Prettier (Optional)
-  ```sh
-  npm i prettier eslint-config-prettier eslint-plugin-prettier -D
+  npm run dev
   ```
 
-8. Install UUID v4 
+### Setup Mobile Project
+
+1. Clone the repo
+   ```sh
+        git clone https://github.com/correa96cl/nlw-setup.git
+   ```
+
+2. install the libraries
+    ```
+    sh
+    npm i
+    ```
+
+3. Execute App
   ```sh
-  npm install uuid
+  npx expo start
   ```
+
+3.1. Execute App clean the cache
+    ```
+    sh
+    npx expo start --clean
+    ```
+
 9. Install Types UUID v4
   ```sh
     npm i @types/uuid -D
@@ -199,23 +218,26 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marcelo Valderrama Correa - correa96cl@hotmail.com
 
-Project Link: [https://github.com/correa96cl/academia-node-js](https://github.com/correa96cl/academia-node-js)
+Project Link: [https://github.com/correa96cl/nlw-setup](https://github.com/correa96cl/nlw-setup)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Expo](https://expo.dev) - Mobile Version
+* [Axios](https://axios-http.com)
+* [TailWindCss](https://tailwindcss.com)
+* [Fastify]()
+* [Prisma]()
+* [Dayjs]()
+* [Mermaid-js]()
+* [zod]()
+* [Typescript]()
+* [PostCSS]()
+* [clsx]()
+* [vite]()
+* [Google Fonts]()
+
 
 
 fpvkr
