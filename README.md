@@ -227,16 +227,16 @@ Project Link: [https://github.com/correa96cl/nlw-setup](https://github.com/corre
 * [Expo](https://expo.dev) - Mobile Version
 * [Axios](https://axios-http.com)
 * [TailWindCss](https://tailwindcss.com)
-* [Fastify]()
-* [Prisma]()
-* [Dayjs]()
-* [Mermaid-js]()
-* [zod]()
-* [Typescript]()
-* [PostCSS]()
-* [clsx]()
-* [vite]()
-* [Google Fonts]()
+* [Fastify](https://www.fastify.io)
+* [Prisma](https://www.prisma.io/react-server-components)
+* [Dayjs](https://day.js.org)
+* [Mermaid-js](https://mermaid.js.org)
+* [zod](https://zod.dev)
+* [Typescript](https://www.typescriptlang.org)
+* [PostCSS](https://postcss.org)
+* [clsx](https://www.npmjs.com/package/clsx)
+* [vite](https://vitejs.dev)
+* [Google Fonts](https://fonts.google.com)
 
 
 
