@@ -82,7 +82,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The complete project of NLW Setup 2023 da Rocketseat (www.rocketseat.com.br)
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -235,7 +235,7 @@ fpvkr
 [license-url]: https://github.com/correa96cl/nlw-setup/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/correa96cl
-[product-screenshot]: image/logo.svg
+[product-screenshot]: image/logoApp.png
 
 
 
